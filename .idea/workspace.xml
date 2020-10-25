@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a5a87e-af2f-47dd-a94d-e7fc5775d883" name="Default Changelist" comment="add ignore">
-      <change afterPath="$PROJECT_DIR$/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="94a5a87e-af2f-47dd-a94d-e7fc5775d883" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,8 +49,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603639746216</updated>
-      <workItem from="1603639747295" duration="1768000" />
+      <workItem from="1603639747295" duration="2603000" />
     </task>
+    <task id="LOCAL-00001" summary="feat 完成基本样式">
+      <created>1603641574301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603641574301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,18 +66,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ignore" />
+    <MESSAGE value="feat 完成基本样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat 完成基本样式" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="319" y="34" key="CommitChangelistDialog2" timestamp="1603640153623">
-      <screen x="44" y="23" width="1396" height="877" />
+    <state x="320" y="34" key="CommitChangelistDialog2" timestamp="1603641574115">
+      <screen x="45" y="23" width="1395" height="877" />
     </state>
     <state x="319" y="34" key="CommitChangelistDialog2/44.23.1396.877@44.23.1396.877" timestamp="1603640153623" />
+    <state x="320" y="34" key="CommitChangelistDialog2/45.23.1395.877@45.23.1395.877" timestamp="1603641574115" />
     <state x="245" y="100" key="SettingsEditor" timestamp="1603640482568">
       <screen x="45" y="23" width="1395" height="877" />
     </state>
     <state x="244" y="100" key="SettingsEditor/44.23.1396.877@44.23.1396.877" timestamp="1603639988856" />
     <state x="245" y="100" key="SettingsEditor/45.23.1395.877@45.23.1395.877" timestamp="1603640482568" />
+    <state x="342" y="201" key="Vcs.Push.Dialog.v2" timestamp="1603641576788">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="342" y="201" key="Vcs.Push.Dialog.v2/45.23.1395.877@45.23.1395.877" timestamp="1603641576788" />
     <state x="407" y="211" key="run.anything.popup" timestamp="1603639776183">
       <screen x="44" y="23" width="1396" height="877" />
     </state>
